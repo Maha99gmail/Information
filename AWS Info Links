@@ -15,8 +15,10 @@ https://www.cdata.com/kb/tech/athena-odbc-alteryx.rst
 5.	Automated Snapshots
 https://aws.amazon.com/about-aws/whats-new/2019/04/amazon-redshift-now-provides-more-control-over-snapshots/
 
-6.	Federated Access
+6.	Federated Access - REDSHIFT
 https://aws.amazon.com/blogs/big-data/federate-database-user-authentication-easily-with-iam-and-amazon-redshift/
+
+7.  https://www.2ndwatch.com/blog/use-aws-iam-sts-access-aws-resources/
 
 
 
