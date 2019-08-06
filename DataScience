@@ -1,0 +1,34 @@
+1.	Estimated annual value of the projects you have worked on. 
+
+2.	Pick 2 favorite algorithms .  Explain how it works.  Why does it work?  Why does it not work?
+
+3.	Linear Regression and Logistic Regression – examples
+
+4.	Time Series Forecasting Models – ARIMA, Autocorrelation, Regressors
+
+5.	Asset Failure modeling, survival analysis, supply chain optimization in retail
+
+6.	R Programming
+Packages used in Python – Scikit Learn, Numpy, Panda, SciPy
+
+Predictive algorithms – regression, neural nets, 
+Clustering algorithms – K-Means others
+
+7.	Outlier Analysis – explain:  Have you used it?
+When considering the use of Outlier analysis, it is important to recognize that, when the Outlier analysis is applied to certain datasets, the results will indicate that outliers should be discounted, while in other cases, the outlier results will indicate that the organization should focus solely on those outliers. For example, if an outlier indicates a risk or a mistake, that outlier should be identified and the risk or mistake should be addressed. If an outlier indicates an exceptional result, such as a person that recovered from a particular disease in spite of the fact that most other patients did not survive, the organization will want to perform further analysis on the outlier result to identify the unique aspects that may be responsible for the patient’s recovery.
+
+8.	Visualization tools – which ones used?
+
+9.	Deep Learning – TensorFlow, Convoutional Neural network, Long Short term memory (LSTM)
+Vertical experience in industrial Internet of Things (IOT), manufacturing
+10.	
+====================
+boquet
+Rshiny
+
+
+Linear regression models
+Tree based models - decision tree, random forest -
+categorical features -
+
+
