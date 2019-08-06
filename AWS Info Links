@@ -1,0 +1,19 @@
+1.	Tuning Tips for Athena
+https://aws.amazon.com/blogs/big-data/top-10-performance-tuning-tips-for-amazon-athena/
+
+2.	EFS
+https://digitalcloud.guru/certification-training/aws-solutions-architect-associate/storage/amazon-efs/
+http://blog.devitpl.com/3-steps-to-turning-amazon-s3-into-an-enterprise-file-storage-solution-for-sharepoint/
+
+3.	SFTP:
+https://stackoverflow.com/questions/23939179/ftp-sftp-access-to-an-amazon-s3-bucket
+https://docs.aws.amazon.com/transfer/latest/userguide/requirements-roles.html
+
+4.	Alteryx to S3
+https://www.cdata.com/kb/tech/athena-odbc-alteryx.rst
+
+5.	Automated Snapshots
+https://aws.amazon.com/about-aws/whats-new/2019/04/amazon-redshift-now-provides-more-control-over-snapshots/
+
+6.	Federated Access
+https://aws.amazon.com/blogs/big-data/federate-database-user-authentication-easily-with-iam-and-amazon-redshift/
