@@ -1,6 +1,9 @@
 1.	Tuning Tips for Athena
 https://aws.amazon.com/blogs/big-data/top-10-performance-tuning-tips-for-amazon-athena/
 
+Tuning Redshift:
+https://www.intermix.io/blog/4-simple-steps-to-set-up-your-wlm-in-amazon-redshift-the-right-way/
+
 2.	EFS
 https://digitalcloud.guru/certification-training/aws-solutions-architect-associate/storage/amazon-efs/
 http://blog.devitpl.com/3-steps-to-turning-amazon-s3-into-an-enterprise-file-storage-solution-for-sharepoint/
