@@ -23,12 +23,24 @@ https://aws.amazon.com/blogs/big-data/federate-database-user-authentication-easi
 
 7.  https://www.2ndwatch.com/blog/use-aws-iam-sts-access-aws-resources/
 
+8.	 Cognito – diagram
+https://codeburst.io/the-difference-between-aws-cognito-userpools-and-federated-identities-9b47571795d4
+
+9.	Copy files from one AWS Account to another
+https://medium.com/tensult/copy-s3-bucket-objects-across-aws-accounts-e46c15c4b9e1
+
+10. Cross Account Access
+https://aws.amazon.com/premiumsupport/knowledge-center/cross-account-access-s3/
+
+11.	Spark
+https://data-flair.training/blogs/apache-spark-rdd-vs-dataframe-vs-dataset/
 
 
 
 
 
 
+***********************************************************************
 
 OTHER LINKS
 1.  Logistics Optimization
