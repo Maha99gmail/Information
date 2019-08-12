@@ -1,0 +1,26 @@
+Topics to Focus Upon for the AWS Certified Big Data Specialty Exam
+
+•	Kinesis Stream and Kinesis Firehose: Kinesis Firehose and Kinesis Stream are big data terms which are related to streaming real-time data with destinations like S3, Es, and spunk. You will need to know the importance of Kinesis and its combination with Lambda. Learning where the Firehose will unload the content will be helpful. Know and understand why kinesis ingestion is better. Learn about features offered by KCL and KPL and learn when they are used to send/receive data. 
+•	S3:  S3 is storage of the internet. With S3 you can store and retrieve data from anywhere anytime. S3 is a simple web service interface. Understand how to use S3 bucket, when to use s3 standards and S3 glacier.
+•	DynamoDB: DynamoDB is NoSQL Database services for applications that need consistent and single-digit millisecond latency at any scale. Study how to design Local Secondary Indexes and Global Secondary Indexes. Study the right use case for DynamoDB. You might also get asked about key optimization.
+It’s the time to get some knowledge about DynamoDB. Read this article – How to use DynamoDB? 
+
+•	Quicksight: Quicksight is a fast cloud-powered business analytics services. You might get asked a question on virtual representation with Quicksight.
+•	Redshift: AWS Redshift is a fully managed, fast data warehouse which helps you analyze your data using SQL and BI. You will need to know the overall architecture and know how to load data using Redshift. Redshift is an important topic and you will need to know the importance of the COPY command, leader, node slices and computer node. Learn how to migrate data using  UNLOAD command. Tuning performance using right sort key. One question on loading data in redshift is asked. For this, you should know what instances and slices are.
+•	IoT: Questions mixed with topics like DynamoDB and Kinesis stream. You will require knowledge of:
+o	IoT Rules
+o	Device Registry
+o	Device Gateway
+o	Device Shadow, etc
+
+•	Machine Learning: Understanding of selecting the right model for specific business requirements and scenarios is required. Knowledge of which kinds of models are used by AWS machine learning is required.
+•	Security: IAM roles, data encryption for S3. DynamoDB and Redshift, HSM.
+•	Data Pipeline: Some questions might be asked on Data Pipeline and Lambda and when to use it. Questions on backup, restore data into other various AWS regions might be asked. 
+
+Don’t Forget These Topics While Preparing for AWS Certified Big Data Specialty Exam
+•	RCU and WCU, DynamoDBs performance control from RCU and WCUs viewpoint.
+•	Understanding of how key choice effects performance.
+•	Understand when and how to use KCL. Know what features it has and when and how to use it.
+•	Thoroughly understand spark and spark streaming concepts.
+•	Integration of Redshift and Kinesis. 
+•	In-depth knowledge DynamoDB, AWS Redshift Workload Management, and managing queues. 
