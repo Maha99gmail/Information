@@ -1,3 +1,8 @@
+STUDY GUIDE
+https://medium.com/@garrett.d.sweeney/aws-big-data-study-guide-links-735fe755187e
+
+
+******************************
 Topics to Focus Upon for the AWS Certified Big Data Specialty Exam
 
 •	Kinesis Stream and Kinesis Firehose: Kinesis Firehose and Kinesis Stream are big data terms which are related to streaming real-time data with destinations like S3, Es, and spunk. You will need to know the importance of Kinesis and its combination with Lambda. Learning where the Firehose will unload the content will be helpful. Know and understand why kinesis ingestion is better. Learn about features offered by KCL and KPL and learn when they are used to send/receive data. 
