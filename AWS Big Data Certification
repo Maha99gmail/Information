@@ -32,4 +32,25 @@ Don’t Forget These Topics While Preparing for AWS Certified Big Data Specialty
 •	Understand when and how to use KCL. Know what features it has and when and how to use it.
 •	Thoroughly understand spark and spark streaming concepts.
 •	Integration of Redshift and Kinesis. 
-•	In-depth knowledge DynamoDB, AWS Redshift Workload Management, and managing queues. 
+•	In-depth knowledge DynamoDB, AWS Redshift Workload Management, and managing queue. 
+==============================
+
+Amazon Cloudtrail captures all API calls for Amazon Kinesis Videostreams (not CloudWatch)
+
+When AWS DataPipeline runs a pipeline, it compiles the pipeline components to create set of actionable instances 
+
+Windows:
+1.	Stagger Windows – A query that aggregates data using keyed time-based windows that open as data arrives.  The keys allow for multiple overlapping windows.  This is the recommended way to aggregate data using time-based windows
+2.	Tumbling windows - A query that aggregates data using distinct time-based windows that open and close at regular intervals.   
+3.	Sliding windows  - A query that aggregates data continuously using a fixed time or rowcount interval.  
+4.	Continuous queries - A query that executes continuously over streaming data.  This continuous execution enables scenarios such as ability for application to continuously query a stream and generate alerts. 
+
+Kinesis Data streams cannot apply data transformation and conversion using record formation techniques.  
+Firehose can perform data transformation using lambda blueprints from Log to JSON formats and then apply record format conversion techniques to convert to binary formats like Parquet and ORC.  
+
+Elastic Transcoder – Convert online video formats from one to another.  
+Transcribe – Recognize speech in audio files and converts to test
+Polly – Converts text into life like speech
+Comprehend – uses NLP to extract insights about the contents of docs
+Neptune – Graph database optimized to store billions of relationships and retrieve in milliseconds
+
